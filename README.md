@@ -14,9 +14,10 @@
 </div>
 
 <br>
+<h2 dir="auto"></h2>
 <br>
 
-- 🔭 Atualmente procurand trabalho na área de Frontend
+- 🔭 Atualmente procurando trabalho na área de Frontend
 - 🌱 Estudando Javascript/Node/Vue
 - 📫 E-mail para contato: bruno.rmazello@gmail.com
 
