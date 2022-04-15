@@ -18,6 +18,6 @@
 <br>
 
 - 🔭 Atualmente tentando entrar na área de Frontend (aberto a propostas!)
-- 🌱 Estudando Javascript/Node/Vue
+- 🌱 Estudando JavaScript/React
 - 📫 E-mail para contato: bruno.rmazello@gmail.com
 
