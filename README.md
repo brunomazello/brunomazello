@@ -1,9 +1,4 @@
 - ## Seja muito bem-vindo!
-<br>
-<h2 dir="auto"></h2>
-<br>
-
-- 🔭 Atualmente tentando entrar na área de Frontend (aberto a propostas!)
-- 🌱 Estudando JavaScript/React
-- 📫 E-mail para contato: bruno.rmazello@gmail.com
-
+- 🔭 Em estágio pela Mobly como desenvolvedor Front-End desde Setembro de 2022.
+- 🌱 Estudando JavaScript/React.
+- 📫 E-mail para contato: bruno.rmazello@gmail.com.
